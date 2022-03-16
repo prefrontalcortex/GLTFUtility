@@ -9,6 +9,7 @@
     ],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
+    "overrideReferences": true,
     "versionDefines": [
         {
             "name": "com.atteneder.gltfast",
